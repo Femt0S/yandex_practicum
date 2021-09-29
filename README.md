@@ -16,6 +16,6 @@
 | [Численные методы](10_numerical_analysis) | Построение модели машинного обучения для определения рыночной стоимости автомобиля | *pandas*, *numpy*, *sklearn*, *lightgbm*, *catboost*, *matplotlib*, *seaborn*, *datetime* |
 | [Временные ряды](11_time_series) | Подготовка признаков и построение модели машинного обучения для определение количества заказов такси от времени. | *pandas*, *numpy*, *sklearn*, *lightgbm*, *catboost*, *matplotlib*, *seaborn*, *datetime*, *statsmodels* |
 | [Машинное обучение для текстов](12_NLP) | Обучение модели классифицировать текстовые комментарии на позитивные и негативные с использованием модели BERT. | *pandas*, *re*, *nltk*, *sklearn*, *torch*, *nltk*, *transformers(BERT)* |
-| [Извлечение данных](13_data_extraction) | 000 | *pandas* |
+| [Извлечение данных](13_data_extraction) | None | *None* |
 | [Компьютерное зрение](14_CV) | None | *None* |
 | [Выпускной проект](15_final) | None | *None* |
