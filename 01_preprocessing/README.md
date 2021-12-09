@@ -1,6 +1,6 @@
 # "Исследование надёжности заёмщиков"
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)
 
 ## Описание проекта
 
