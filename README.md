@@ -4,9 +4,9 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :----------------------: | :---------------------- | :----------------------: |
-| [Предобработка данных](01_preprocessing) | Предобработка полученных данных. Оценка влияния семейного положения и количества детей клиента на факт погашения кредита в срок. | *pandas* |
-| [Исследовательский анализ данных](02_exploratory_data_analysis) | Обработка и анализ исходных данных, опреление аномалий и взамиосвязей в ценообразовании объектов недвижимости на основе данных сервиса "Яндекс.Недвижимость".| *pandas*, *matplotlib*, *seaborn* |
-| [Статистический анализ данных](03_statistical) | Определение коммерческой успешности тарифов сотового оператора | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *functools* |
+| [Предобработка данных](01_preprocessing) | Предобработка полученных данных. Оценка влияния семейного положения и количества детей клиента на факт погашения кредита в срок. | ![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)  |
+| [Исследовательский анализ данных](02_exploratory_data_analysis) | Обработка и анализ исходных данных, опреление аномалий и взамиосвязей в ценообразовании объектов недвижимости на основе данных сервиса "Яндекс.Недвижимость".| ![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg) ![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg)  |
+| [Статистический анализ данных](03_statistical) | Определение коммерческой успешности тарифов сотового оператора | ![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg) ![NumPy](https://img.shields.io/badge/NumPy-1.19-cyan.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.6.0-darkblue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg) ![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg) ![functools](https://img.shields.io/badge/functools-_-gray.svg)|
 | [Сборный проект - 1](04_first_combined) | Прогноз продаж на рынке компьютерных игр на основе исторических данных | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *functools* |
 | [Введение в машинное обучение](05_intro_ML) | Построение модели машинного обучения для системы предложений тарифных планов клиентам мобильной связи. | *pandas*, *numpy*, *sklearn* |
 | [Обучение с учителем](06_ML) | Построение модели машинного обучения для прогноза оттока клиентов банка. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
