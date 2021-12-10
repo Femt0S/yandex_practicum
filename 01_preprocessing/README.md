@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков
 
-![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)
+[![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/)
 
 ## Описание проекта
 
