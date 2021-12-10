@@ -1,6 +1,6 @@
 # Определение перспективного тарифа для телеком компании
 
-![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg) ![NumPy](https://img.shields.io/badge/NumPy-1.19-cyan.svg) ![SciPy](https://img.shields.io/badge/SciPy-1.6.0-darkblue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg) ![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg) ![functools](https://img.shields.io/badge/functools-_-gray.svg)
+[![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-1.19-cyan.svg)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-1.6.0-darkblue.svg)](https://scipy.org/) [![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg)](https://seaborn.pydata.org/) ![functools](https://img.shields.io/badge/functools-_-gray.svg)
 
 ## Описание проекта
 
