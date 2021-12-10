@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg) ![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg) 
+[![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg)](https://seaborn.pydata.org/)
 
 
 ## Описание проекта
