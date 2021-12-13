@@ -2,3 +2,4 @@
 .DS_Store
 /*/datasets
 /*/.ipynb_checkpoints
+/*/catboost_info
