@@ -1,4 +1,4 @@
-# Определение стоимости автомобилей
+# [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](10_numerical_analysis.ipynb) Определение стоимости автомобилей
 
 [![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-1.19-cyan.svg)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/sklearn-0.24-orange.svg)](https://scikit-learn.org/) [![LightGBM](https://img.shields.io/badge/LightGBM-3.2.1-red.svg)](https://lightgbm.readthedocs.io) [![CatBoost](https://img.shields.io/badge/CatBoost-1.0-yellow.svg)](https://catboost.ai/) [![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/seaborn-0.11-green.svg)](https://seaborn.pydata.org/) ![datetime](https://img.shields.io/badge/datetime-_-gray.svg)
 
