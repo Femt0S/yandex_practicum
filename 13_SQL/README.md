@@ -1,4 +1,4 @@
-# Спрос на рейсы авиакомпании
+# [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](13_SQL.ipynb) Спрос на рейсы авиакомпании 
 
 [![SQL](https://img.shields.io/badge/SQL-336791.svg)](https://www.postgresql.org/) [![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg)](https://matplotlib.org/)
 
