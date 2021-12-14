@@ -1,4 +1,4 @@
-# Исследование надёжности заёмщиков [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](01_preprocessing.ipynb)
+# [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](01_preprocessing.ipynb) Исследование надёжности заёмщиков 
 
 [![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/)
 
