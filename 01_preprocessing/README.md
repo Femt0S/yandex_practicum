@@ -1,6 +1,7 @@
-# Исследование надёжности заёмщиков
+# Исследование надёжности заёмщиков [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](01_preprocessing.ipynb)
 
 [![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/)
+
 
 ## Описание проекта
 
