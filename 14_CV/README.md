@@ -1,4 +1,4 @@
-# Определение возраста покупателей
+# [![viewJupyter](https://img.shields.io/badge/Jupyter-view-orange?style=for-the-badge&logo=Jupyter)](14_CV.ipynb) Определение возраста покупателей 
 
 [![Pandas](https://img.shields.io/badge/Pandas-1.2-blue.svg)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/matplotlib-3.4-white.svg)](https://matplotlib.org/) [![scikit-learn](https://img.shields.io/badge/sklearn-0.24-orange.svg)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FFA800.svg)](https://www.tensorflow.org/) ![PIL](https://img.shields.io/badge/PIL-gray.svg)
 
